@@ -1,0 +1,24 @@
+{
+  "name": "libmh",
+  "version": "1.0.1",
+  "description": "My implementation of javascript utility function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MauriceHuang/libmh.git"
+  },
+  "keywords": [
+    "Javascript",
+    "utility",
+    "function"
+  ],
+  "author": "maurice huang pai so",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MauriceHuang/libmh/issues"
+  },
+  "homepage": "https://github.com/MauriceHuang/libmh#readme"
+}
