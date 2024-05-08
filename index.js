@@ -13,4 +13,4 @@ function randomWait(min, max)
 
 	})
 }
-module.exports ={ helloNpm, randomWait}
+module.exports = {helloNpm , randomWait};

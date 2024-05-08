@@ -1,1 +1,5 @@
+# This is a .gitignore file.
 .vscode/*
+test/*
+# ignore node_module imported
+node_modules/*
